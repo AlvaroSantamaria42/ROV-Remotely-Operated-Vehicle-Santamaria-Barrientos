@@ -1,4 +1,4 @@
-# ROV-Remotely-Operated-Vehicle-Santamaria-Barrientos.  LOS ANDES
+# ROV para inspección subacuatica: Santamaria-Barrientos
 
 El presente proyecto consiste en el diseño y desarrollo de un prototipo de ROV (Remotely Operated Vehicle) orientado a la inspección subacuática en entornos industriales, ambientales y científicos. El sistema estará constituido por una estructura sumergible equipada con propulsores eléctricos, una cámara integrada con iluminación LED para registro visual, y un conjunto de sensores básicos (profundidad, IMU, pH y temperatura) que permitan obtener información del medio acuático.
 
