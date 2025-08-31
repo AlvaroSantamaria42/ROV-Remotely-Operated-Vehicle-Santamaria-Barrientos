@@ -1,15 +1,9 @@
-# ROV-Remotely-Operated-Vehicle-Santamaria-Barrientos.  LOS ANDES
+# ROV para inspección subacuatica: Santamaria-Barrientos
 
-El presente proyecto consiste en el diseño y desarrollo de un prototipo de ROV (Remotely Operated Vehicle) orientado a la inspección subacuática en entornos industriales, ambientales y científicos. El sistema estará constituido por una estructura sumergible equipada con propulsores eléctricos, una cámara integrada con iluminación LED para registro visual, y un conjunto de sensores básicos (profundidad, IMU, pH y temperatura) que permitan obtener información del medio acuático.
+<img width="1637" height="1125" alt="image" src="https://github.com/user-attachments/assets/6d00b793-f1a7-499c-a8c4-a2d8ab221cdf" />
 
-El vehículo se conectará a la superficie mediante un cable basado en cable Ethernet, el cual permitirá el envío de energía y la transmisión de datos en tiempo real hacia un PC de control. Desde la interfaz en superficie, el operador podrá dirigir la navegación, visualizar imágenes y monitorear las mediciones adquiridas.
+El presente proyecto consiste en el diseño y construcción de un ROV (Remotely Operated Vehicle) para inspección subacuática, orientado a aplicaciones industriales, ambientales y científicas. Este prototipo busca ofrecer una alternativa segura y económica al uso de buzos profesionales en tareas de inspección de estructuras como represas, puertos y cascos de barcos, reduciendo costos operativos y riesgos para la vida humana.
 
-El ROV se plantea como un sistema modular, accesible y escalable, capaz de adaptarse a distintas aplicaciones, tales como:
+El ROV será un sistema modular, equipado con propulsión eléctrica, cámara de transmisión en vivo y sensores de temperatura, presión y orientación, controlado en tiempo real desde la superficie mediante un tether Ethernet. Su desarrollo integra disciplinas de mecánica, electrónica y software, fomentando la aplicación práctica de conocimientos en ingeniería mecatrónica.
 
-Inspección de compuertas de represas, cascos de embarcaciones y estructuras portuarias.
-
-Monitoreo de redes de piscicultura y estudios de acuicultura.
-
-Recolección de parámetros ambientales en cuerpos de agua para investigación científica.
-
-El desarrollo permitirá contar con un prototipo funcional, probado inicialmente en pileta, que combine diseño mecánico, electrónica y control, ofreciendo una alternativa económica a los equipos importados, con el valor agregado de un diseño local adaptable a distintas necesidades.
+La propuesta apunta a lograr un prototipo funcional probado en pileta, capaz de adaptarse a distintos entornos de trabajo y de servir como base para futuras mejoras, como la incorporación de sensores adicionales o interfaces gráficas de telemetría.
