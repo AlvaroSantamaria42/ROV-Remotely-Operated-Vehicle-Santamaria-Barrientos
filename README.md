@@ -58,6 +58,8 @@ Desarrollo de un ROV con:
 - Yaw (guiñada)
 - Pitch (cabeceo)
 
+<img src="https://github.com/user-attachments/assets/6e43e0f9-6633-446a-afb8-3a85b0c9f0d2" alt="Ilustracion ROV 2 0 - GDL" width="500"/>
+
 ## Inspección y análisis de imágenes
 - El operador en superficie visualizará las imágenes en tiempo real desde la PC.
 - El software permitirá capturar fotos y grabar video.
@@ -143,9 +145,6 @@ Se utilizará una Raspberry Pi combinada con controladores externos:
 - 1 entrada I2C para IMU.
 - 1 entrada I2C/SPI para sensor de presión.
 - 1 puerto UART para expansión.
-
-> En el mercado, equipos comerciales similares (BlueROV2, VideoRay) superan los **USD 4.000–10.000**, mientras que el desarrollo local es al menos 10 veces más económico.  
-> Plazos de entrega dependerán de componentes importados (~30 días).
 
 ---
 
