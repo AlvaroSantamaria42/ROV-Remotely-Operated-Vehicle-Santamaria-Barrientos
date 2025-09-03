@@ -2,11 +2,36 @@
 
 ![Ilustracion ROV 2 0](https://github.com/user-attachments/assets/abd9f6db-ba5b-4851-94f9-f922b9409b70)
 
-El presente proyecto consiste en el diseño y construcción de un ROV (Remotely Operated Vehicle) para inspección subacuática, orientado a aplicaciones industriales, ambientales y científicas. Este prototipo busca ofrecer una alternativa segura y económica al uso de buzos profesionales en tareas de inspección de estructuras como represas, puertos y cascos de barcos, reduciendo costos operativos y riesgos para la vida humana.
+## 1. Introducción
+El presente proyecto consiste en el diseño y construcción de un ROV (Remotely Operated Vehicle) para inspección subacuática, orientado a aplicaciones industriales, ambientales y científicas. Este prototipo busca ofrecer una alternativa segura y económica al uso de buzos profesionales en tareas de inspección de estructuras como represas, puertos y cascos de barcos, reduciendo costos operativos y riesgos para la vida humana.  
 
-El ROV será un sistema modular, equipado con propulsión eléctrica, cámara de transmisión en vivo y sensores de temperatura, presión y orientación, controlado en tiempo real desde la superficie mediante un tether Ethernet. Su desarrollo integra disciplinas de mecánica, electrónica y software, fomentando la aplicación práctica de conocimientos en ingeniería mecatrónica.
+El ROV será un sistema modular, equipado con propulsión eléctrica, cámara de transmisión en vivo y sensores de temperatura, presión y orientación, controlado en tiempo real desde la superficie mediante un tether Ethernet. Su desarrollo integra disciplinas de mecánica, electrónica y software, fomentando la aplicación práctica de conocimientos en ingeniería mecatrónica.  
 
 La propuesta apunta a lograr un prototipo funcional probado en pileta, capaz de adaptarse a distintos entornos de trabajo y de servir como base para futuras mejoras, como la incorporación de sensores adicionales o interfaces gráficas de telemetría.
+
+---
+
+## 2. Motivación y antecedentes
+La inspección subacuática en represas, diques, puertos, embarcaciones y cuerpos de agua requiere actualmente el uso de buzos profesionales. Esto genera:
+- Altos costos operativos.  
+- Riesgos para la vida humana.  
+- Limitaciones en la profundidad y tiempo de inspección.  
+- Dificultad para realizar monitoreo frecuente y sistemático.  
+
+Además, existe un mercado emergente para la observación ambiental, la acuicultura, la investigación científica y la industria naval, donde un ROV accesible y modular puede ofrecer soluciones innovadoras y más económicas.
+
+---
+
+## 3. Descripción de la propuesta
+El proyecto consiste en diseñar y construir un prototipo de ROV modular, con capacidades de inspección visual, que permita:
+- Monitorear estructuras subacuáticas como compuertas de represas, cascos de barcos y redes de piscicultura.  
+- Registrar datos ambientales (pH, temperatura, conductividad) para estudios científicos y de impacto ambiental.  
+- Facilitar inspecciones seguras, reduciendo riesgos para personal humano.  
+- Implementar control remoto mediante un tether basado en cable Ethernet que transporta energía y datos hacia la superficie, controlado por un PC.  
+
+**Motivo de elección:** se combina la complejidad mecánica, electrónica y de control, al mismo tiempo que el prototipo es viable económicamente y puede tener aplicaciones reales.
+
+---
 
 # 4. Alcance
 
